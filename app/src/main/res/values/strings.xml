@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieDbTutorial</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_top">Top</string>
+    <string name="nav_title_top">Top</string>
+    <string name="nav_title_popular">Popular</string>
+    <string name="title_popular">Popular</string>
+    <string name="search_result">Search Result</string>
+
+    <string-array name="nav_titles">
+        <item>@string/nav_title_top</item>
+        <item>@string/nav_title_popular</item>
+    </string-array>
+</resources>
